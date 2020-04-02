@@ -1,0 +1,6 @@
+demo2 (0.0.0) UNRELEASED; urgency=low
+
+  * Initial release. Closes: #nnnn
+    <nnnn is the bug number of your ITP>
+
+ -- demo2 <dingjing@live.cn>  Thu, 02 Apr 2020 00:29:41 +0800

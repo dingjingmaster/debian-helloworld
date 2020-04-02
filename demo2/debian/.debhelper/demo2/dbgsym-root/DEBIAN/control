@@ -1,0 +1,13 @@
+Package: demo2-dbgsym
+Package-Type: ddeb
+Source: demo2
+Version: 0.0.0
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: demo2 <dingjing@live.cn>
+Installed-Size: 18
+Depends: demo2 (= 0.0.0)
+Section: debug
+Priority: optional
+Description: debug symbols for demo2
+Build-Ids: f6d390b59b68e024bd84068b6f503b87b82ed408

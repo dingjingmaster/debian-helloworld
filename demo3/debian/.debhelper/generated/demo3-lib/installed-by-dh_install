@@ -1,0 +1,4 @@
+./library/libdemo3-lib.so.1
+./library/libdemo3-lib.so.1.0
+./library/libdemo3-lib.so.1.0.0
+debian/tmp/usr/include/demo3/

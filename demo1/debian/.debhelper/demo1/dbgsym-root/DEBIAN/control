@@ -1,0 +1,13 @@
+Package: demo1-dbgsym
+Package-Type: ddeb
+Source: demo1
+Version: 0.0.0ubuntu1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: demo1 <dingjing@live.cn>
+Installed-Size: 18
+Depends: demo1 (= 0.0.0ubuntu1)
+Section: debug
+Priority: optional
+Description: debug symbols for demo1
+Build-Ids: f6d390b59b68e024bd84068b6f503b87b82ed408

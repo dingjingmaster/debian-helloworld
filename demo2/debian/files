@@ -1,0 +1,4 @@
+demo2-dbgsym_0.0.0_amd64.ddeb debug optional automatic=yes
+demo2-doc_0.0.0_amd64.deb debug optional
+demo2_0.0.0_amd64.buildinfo debug optional
+demo2_0.0.0_amd64.deb debug optional

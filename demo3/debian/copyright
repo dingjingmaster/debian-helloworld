@@ -1,0 +1,31 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: demo3
+Source: <url://example.com>
+#
+# Please double check copyright with the licensecheck(1) command.
+
+Files:     .gitignore
+           .qmake.stash
+           Makefile
+           demo3.pro
+           library/Makefile
+           library/demo3-lib.cpp
+           library/demo3-lib.h
+           library/demo3-lib.o
+           library/libdemo3-lib.so.1.0.0
+           library/library.pro
+           src/Makefile.main
+           src/demo3.run
+           src/main.c
+           src/main.o
+           src/main.pro
+Copyright: __NO_COPYRIGHT_NOR_LICENSE__
+License:   __NO_COPYRIGHT_NOR_LICENSE__
+
+#----------------------------------------------------------------------------
+# xml and html files (skipped):
+#         demo3.pro.user
+
+#----------------------------------------------------------------------------
+# Files marked as NO_LICENSE_TEXT_FOUND may be covered by the following
+# license/copyright files.
